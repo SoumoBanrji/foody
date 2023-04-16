@@ -24,7 +24,7 @@
 ### The project workflow can be divided into three parts:
 
 #### 1. Extract insights from data
-##### The first part extracts insights from the data using the part1.py file. This part extracts the most popular cuisines, the average price of food per person, the ##### most popular restaurants, and restaurants offering preferred cuisine.
+##### The first part extracts insights from the data using the part1.py file. This part extracts the most popular cuisines, the average price of food per person, the most popular restaurants, and restaurants offering preferred cuisine.
 
 #### 2. Train the models
 ##### The second part trains the machine learning models using the modelTraining.py file. This part trains two models:
