@@ -1,6 +1,9 @@
 # Restaurant Recommender System
 ## This project is a restaurant recommender system built using Flask web framework, which recommends popular cuisines, popular restaurants, restaurants offering a preferred cuisine, and suggests the ideal price for a dish based on user inputs like location, cuisine, and budget.
 
+![foody_webpage](https://user-images.githubusercontent.com/101920267/232299595-c908c41f-7e1d-47d7-b91a-498f72166ccc.PNG)
+
+
 ### Dependencies
 #### Flask
 #### Pandas
