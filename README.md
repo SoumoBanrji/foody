@@ -34,7 +34,7 @@
 #### 3. Create features and recommend
 ##### The third part uses the trained models to create features and recommend restaurants using the app.py and featureCreation.py files.
 
-##### The app.py file is the Flask application that accepts user inputs and renders the output. It calls the FeatureCreator class defined in featureCreation.py to ##### create features from user inputs. It then uses the trained models to predict the ideal price and recommended location.
+##### The app.py file is the Flask application that accepts user inputs and renders the output. It calls the FeatureCreator class defined in featureCreation.py to create features from user inputs. It then uses the trained models to predict the ideal price and recommended location.
 
 #### Limitations
 ##### The models are trained on a limited dataset, and the predictions may not be accurate for all regions.
