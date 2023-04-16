@@ -16,7 +16,7 @@
 #### templates/: Contains the HTML template for the web app.
 #### app.py: The Flask application.
 #### featureCreation.py: Contains a class to create features from user inputs.
-#### modelTraining.py: Contains the code for training the machine learning models.
+#### zoomato_food_delivery.ipynb: Contains the code for training the machine learning models.
 #### part1.py: Contains functions to extract insights from the data.
 #### README.md: The readme file.
 
