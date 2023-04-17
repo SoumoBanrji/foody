@@ -27,10 +27,10 @@
 ##### The first part extracts insights from the data using the part1.py file. This part extracts the most popular cuisines, the average price of food per person, the most popular restaurants, and restaurants offering preferred cuisine.
 
 #### 2. Train the models
-##### The second part trains the machine learning models using the modelTraining.py file. This part trains two models:
+##### The second part trains the machine learning models. This part trains two models:
 
 ##### A clustering model to cluster restaurants based on their location and price.
-##### A regression model to predict the price of a dish based on the cluster label and cuisine.
+##### A regression model to predict the price of a dish based on the cluster label and cuisine. then saved booth bmodels as pickle file in saved_model folder for further use
 #### 3. Create features and recommend
 ##### The third part uses the trained models to create features and recommend restaurants using the app.py and featureCreation.py files.
 
